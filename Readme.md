@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-In order to use this template you need to have the Node.js installed
+In order to use this template you need to have Node.js installed
 
 https://nodejs.org/
 
