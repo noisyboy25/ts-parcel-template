@@ -1,23 +1,25 @@
-# Installation
+# TypeScript + Parcell Template
 
-## Prerequisites
+## Installation
+
+### Prerequisites
 
 In order to use this template you need to have Node.js installed
 
 https://nodejs.org/
 
-## Install dependencies
+### Install dependencies
 
 `npm ci`  
 or  
 `npm install`
 
-# Usage
+## Usage
 
-## Run in development mode
+### Run in development mode
 
 `npm run dev`
 
-## Run in production mode
+### Run in production mode
 
 `npm run build`
