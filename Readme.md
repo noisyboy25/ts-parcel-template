@@ -4,12 +4,12 @@
 
 In order to use this template you need to have the Node.js installed
 
+https://nodejs.org/
+
 ## Install dependencies
 
-`npm ci`
-
-or
-
+`npm ci`  
+or  
 `npm install`
 
 # Usage
